@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978459091778",
+    "project_id": "mood-29255",
+    "storage_bucket": "mood-29255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978459091778:android:3407d9beb109bba62f5edb",
+        "android_client_info": {
+          "package_name": "com.basista21.mood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978459091778-4vdtt6f5cqujp236cq60njl65cqasdgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0991Fz-3qto9w_m0HT6Y7pHd1WZp9xNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978459091778-4vdtt6f5cqujp236cq60njl65cqasdgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
